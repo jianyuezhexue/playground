@@ -1,8 +1,6 @@
 module github.com/jianyuezhexue/playground
 
-go 1.23.0
-
-toolchain go1.23.9
+go 1.23.9
 
 require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
